@@ -1,0 +1,10 @@
+# Checkpoints do Jupyter
+.ipynb_checkpoints
+
+# Ambiente virtual
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
